@@ -3,3 +3,4 @@ loguru
 python-dotenv
 web3
 swarm-models
+langchain_community == 0.3.24
